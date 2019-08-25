@@ -1,0 +1,6 @@
+C:\Users\Family\Desktop\XO_game\XO_game\bin\Debug\XO_game.exe.config
+C:\Users\Family\Desktop\XO_game\XO_game\obj\Debug\XO_game.csprojResolveAssemblyReference.cache
+C:\Users\Family\Desktop\XO_game\XO_game\bin\Debug\XO_game.exe
+C:\Users\Family\Desktop\XO_game\XO_game\bin\Debug\XO_game.pdb
+C:\Users\Family\Desktop\XO_game\XO_game\obj\Debug\XO_game.exe
+C:\Users\Family\Desktop\XO_game\XO_game\obj\Debug\XO_game.pdb
